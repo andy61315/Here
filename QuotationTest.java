@@ -5,7 +5,7 @@ public class QuotationTest {
       Quotation myQuotation = new Quotation();
     	int j = 0;
 		//654
-		
+		//just for test
       myQuotation.display();
     }
 }
